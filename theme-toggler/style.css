@@ -73,8 +73,8 @@ body.dark {
 .fa-sun,
 .fa-moon {
   position: absolute;
-  /* transition: opacity, color, var(--transition-delay); */
   color: var(--accent-color);
+  transition: opacity, color, var(--transition-delay);
 }
 
 .fa-sun {

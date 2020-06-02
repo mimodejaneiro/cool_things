@@ -9,7 +9,7 @@ body {
   --background-color: #fff;
   --text-color: #484a4e;
   --button-text-color: var(--background-color);
-  --transition-delay: 1s;
+  --transition-delay: 0.9s;
 
   display: flex;
   flex-direction: column;
